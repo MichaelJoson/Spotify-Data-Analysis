@@ -18,3 +18,19 @@ The dataset contains audio features from [Spotify's API](https://developer.spoti
 - KMeans Clustering
 
 Preprocessing and all statistical methods used can be found [here](/SpotifyAnalysis.ipynb)
+
+# Correlation map of features:
+
+![image](https://user-images.githubusercontent.com/98543433/208057348-210bcafd-08e3-4971-bf01-41b8e25a829d.png)
+
+# Decision Tree:
+
+![image](https://user-images.githubusercontent.com/98543433/208058208-376147a1-16f3-456b-8252-225b157dfcfc.png)
+
+# Accuracies of classifiers:
+
+![image](https://user-images.githubusercontent.com/98543433/208057763-4c64b005-e30a-4bc7-8569-52ad8b71f31d.png)
+
+# Times of classifiers (*note: gradient boosting time too large to be shown (21.55 mins)*):
+
+![image](https://user-images.githubusercontent.com/98543433/208057838-e7ee775f-225e-4eea-b9d2-7450632d2432.png)
