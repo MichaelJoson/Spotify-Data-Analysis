@@ -17,4 +17,4 @@ The dataset contains audio features from [Spotify's API](https://developer.spoti
 **Unsupervised Learning**
 - KMeans Clustering
 
-Preprocessing and all statistical methods used can be found [here](Spotify-Data-Analysis/SpotifyAnalysis.ipynb)
+Preprocessing and all statistical methods used can be found [here](/SpotifyAnalysis.ipynb)
