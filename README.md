@@ -8,13 +8,11 @@ We defined a top song as a song that has more than 325,000 streams, the top 25% 
 The dataset contains audio features from [Spotify's API](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-several-audio-features) that were used to test on the following models:
 
 **Supervised Learning**
-
--Decision Tree Classifier
--KNN
--Gaussian Naive Bayes
--Random Forest Classifier
--Gradient Boosting
+- Decision Tree Classifier
+- KNN
+- Gaussian Naive Bayes
+- Random Forest Classifier
+- Gradient Boosting
 
 **Unsupervised Learning**
-
--KMeans Clustering
+- KMeans Clustering
