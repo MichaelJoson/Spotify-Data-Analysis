@@ -19,6 +19,10 @@ The dataset contains audio features from [Spotify's API](https://developer.spoti
 
 Preprocessing and all statistical methods used can be found [here](/SpotifyAnalysis.ipynb)
 
+# Top genres
+
+![image](https://user-images.githubusercontent.com/98543433/208058510-056df47f-5a0d-43f9-80f1-977bab3eb049.png)
+
 # Correlation map of features:
 
 ![image](https://user-images.githubusercontent.com/98543433/208057348-210bcafd-08e3-4971-bf01-41b8e25a829d.png)
