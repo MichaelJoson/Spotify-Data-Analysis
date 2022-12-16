@@ -1,8 +1,6 @@
 # Spotify-Data-Analysis
 
-Original dataset: https://www.kaggle.com/datasets/yelexa/spotify200
-
-The goal of this project is to explore a dataset containing Spotify's Weekly Top Song's chart from 2021/02/04 ~ 2022/07/14. 
+The goal of this project is to explore a dataset containing [Spotify's Weekly Top Song's](https://www.kaggle.com/datasets/yelexa/spotify200) from 2021/02/04 ~ 2022/07/14. 
 
 Our main focus is to find the best possible model(s) to predict if a song will be classified as a top song or not.
 We defined a top song as a song that has more than 325,000 streams, the top 25% of streamed songs.
